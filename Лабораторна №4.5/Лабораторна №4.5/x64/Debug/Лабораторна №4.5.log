@@ -1,0 +1,3 @@
+﻿  Лабораторна №4.5.cpp
+C:\Users\Hewlet Packard\Desktop\Лабораторні\Лабораторна з АП\Лабораторна №4\Лабораторна №4.5\Лабораторна №4.5\Лабораторна №4.5\Лабораторна №4.5.cpp(30,71): warning C4804: '<=': unsafe use of type 'bool' in operation
+C:\Users\Hewlet Packard\Desktop\Лабораторні\Лабораторна з АП\Лабораторна №4\Лабораторна №4.5\Лабораторна №4.5\Лабораторна №4.5\Лабораторна №4.5.cpp(30): error C4700: uninitialized local variable 'y' used
